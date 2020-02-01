@@ -25,7 +25,7 @@ struct noteItem {
     id: u64
     uuid: GUID,
     projects: [Projects]
-    idTodo: [todoIdem::GUID],
+    idTodo: [todoItem::GUID],
     
 } 
 ```
