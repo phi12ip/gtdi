@@ -2,6 +2,7 @@
 
 ## stage 1
 
+``` rust
 struct todoItem {
     id: u64,
     uuid: GUID,
@@ -15,10 +16,11 @@ struct todoItem {
     priority: Priority,
     idNote: [noteItem::GUID]
 }
+```
 
 
 ## stage 2
-   
+``` rust   
 struct noteItem {
     id: u64
     uuid: GUID,
@@ -26,9 +28,10 @@ struct noteItem {
     idTodo: [todoIdem::GUID],
     
 } 
-
+```
 ## stage 3
-
+``` rust
 calendarItem: {
 
 }
+```
