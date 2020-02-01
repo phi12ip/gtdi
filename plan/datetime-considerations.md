@@ -1,6 +1,6 @@
 # datetime considerations
 
-## Datetime standard: ISO 8601
+gtdi will conform to the date-time standard laid out in [ISO 8601 (2004 Edition)](https://github.com/phi12ip/gtdi/blob/master/plan/res/ISO_8601-2004_E.pdf)
 
 ### Dates:
 - valid formats 
