@@ -1,0 +1,18 @@
+# functionality
+
+## basic todoItem fns
+
+- [ ] init a new todo list
+    - create new json file in current directory
+- [ ] add a todo to the list
+    - due date
+    - priority
+    - adding contexts and projects to app
+    - linking contexts and projects
+- [ ] complete a todo
+- [ ] archive a todo
+- [ ] delete a todo
+- [ ] edit a todo
+
+## main repl interface implementation
+
